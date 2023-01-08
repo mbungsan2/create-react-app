@@ -6,7 +6,7 @@ title: Folder Structure
 After creation, your project should look like this:
 
 ```
-my-app/
+my.bungsan.ogr/
   README.md
   node_modules/
   package.json
